@@ -127,7 +127,7 @@ public class Main {
         TuyenSinh tuyenSinh = new TuyenSinh();
 
         while (true) {
-            System.out.println("\n=============== QUAN LY THI SINH ================");
+            System.out.println("\n================ QUAN LY THI SINH ================");
             System.out.println("1. Them moi thi sinh");
             System.out.println("2. Hien thi thong tin thi sinh");
             System.out.println("3. Tim kiem theo so bao danh");
